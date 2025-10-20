@@ -15,8 +15,7 @@ docker create --name mysql8 -e MYSQL_ROOT_PASSWORD=root -p 3306:3306 mysql:8.0.2
 ```
 MYSQL_ROOT_PASSWORD 환경변수는 DB root 사용자의 암호를 지정합니다.
 위 명령어는 root 암호를 root로 설정합니다.
-
-
+<br>
 컨테이너 시작:
 ```bash
 docker start mysql8
