@@ -8,6 +8,7 @@
 [MySQL 다운로드](https://dev.mysql.com/downloads/)
 
 - 도커 이용 설치
+  
 컨테이너 생성:
 ```bash
 docker create --name mysql8 -e MYSQL_ROOT_PASSWORD=root -p 3306:3306 mysql:8.0.27
