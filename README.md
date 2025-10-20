@@ -37,5 +37,5 @@ GRANT ALL PRIVILEGES ON jpabegin.* TO 'jpauser'@'%';
 - [persistence.xml과 application.properties 차이](https://www.notion.so/JPA-28eb45b7ffa2802c9ce7d0d28017184f?p=abc123def456)
 ---
 ## Day2 JPA 실행시점
-- [저장과 수정 시점]([https://www.notion.so/JPA-28eb45b7ffa2802c9ce7d0d28017184f?p=abc123def456](https://www.notion.so/JPA-292b45b7ffa2808e870dd4ca62531972))
-- [영속 컨텍스트란]([[https://www.notion.so/JPA-28eb45b7ffa2802c9ce7d0d28017184f?p=abc123def456](https://www.notion.so/JPA-292b45b7ffa2808e870dd4ca62531972)](https://www.notion.so/292b45b7ffa280e8b429c363899cc315))
+- [저장과 수정 시점]([https://www.notion.so/JPA-28eb45b7ffa2802c9ce7d0d28017184f?p=abc123def456](https://www.notion.so/JPA-292b45b7ffa2808e870dd4ca62531972)
+- [영속 컨텍스트란]([[https://www.notion.so/JPA-28eb45b7ffa2802c9ce7d0d28017184f?p=abc123def456](https://www.notion.so/JPA-292b45b7ffa2808e870dd4ca62531972)](https://www.notion.so/292b45b7ffa280e8b429c363899cc315)
