@@ -33,9 +33,12 @@ GRANT ALL PRIVILEGES ON jpabegin.* TO 'jpauser'@'localhost';
 GRANT ALL PRIVILEGES ON jpabegin.* TO 'jpauser'@'%';
 ```
 ---
-## Day1 JPA 기본설정
+## ch1 JPA 기본설정
 - [persistence.xml과 application.properties 차이](https://www.notion.so/JPA-28eb45b7ffa2802c9ce7d0d28017184f?p=abc123def456)
 ---
-## Day2 JPA 실행시점
-- [저장과 수정 시점]([https://www.notion.so/JPA-28eb45b7ffa2802c9ce7d0d28017184f?p=abc123def456](https://www.notion.so/JPA-292b45b7ffa2808e870dd4ca62531972)
-- [영속 컨텍스트란]([[https://www.notion.so/JPA-28eb45b7ffa2802c9ce7d0d28017184f?p=abc123def456](https://www.notion.so/JPA-292b45b7ffa2808e870dd4ca62531972)](https://www.notion.so/292b45b7ffa280e8b429c363899cc315)
+## ch2 JPA 실행시점
+- [저장과 수정 시점](https://www.notion.so/JPA-292b45b7ffa2808e870dd4ca62531972)
+- [영속 컨텍스트란](https://www.notion.so/292b45b7ffa280e8b429c363899cc315)
+---
+## ch3 엔티티 메서드 정리
+- [엔티티 메서드 정리](https://www.notion.so/292b45b7ffa280a18d61f8f2c9db4cef)
