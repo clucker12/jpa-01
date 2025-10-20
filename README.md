@@ -1,7 +1,6 @@
 # JPA 프로젝트 학습 기록
 
 ## 로컬 환경 구성
----
 1. MySQL 설치
 
 - 직접 설치
@@ -32,6 +31,5 @@ CREATE USER 'jpauser'@'%' IDENTIFIED BY 'jpapass';
 GRANT ALL PRIVILEGES ON jpabegin.* TO 'jpauser'@'localhost';
 GRANT ALL PRIVILEGES ON jpabegin.* TO 'jpauser'@'%';
 ```
----
 ## Day1 JPA 기본설정
 - [persistence.xml과 application.properties 차이](https://www.notion.so/JPA-28eb45b7ffa2802c9ce7d0d28017184f?p=abc123def456)
