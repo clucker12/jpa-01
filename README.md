@@ -42,3 +42,6 @@ GRANT ALL PRIVILEGES ON jpabegin.* TO 'jpauser'@'%';
 ---
 ## ch3 엔티티 메서드 정리
 - [엔티티 메서드 정리](https://www.notion.so/292b45b7ffa280a18d61f8f2c9db4cef)
+---
+## ch4 엔티티 매핑 설정
+- [엔티티 매핑 설정](https://www.notion.so/292b45b7ffa280f68b06dd0801a158f2)
