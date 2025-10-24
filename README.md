@@ -48,3 +48,6 @@ GRANT ALL PRIVILEGES ON jpabegin.* TO 'jpauser'@'%';
 
 ## ch5 엔티티 식별자 생성 방식
 - [엔티티 식별자 생성 방식](https://www.notion.so/292b45b7ffa280cfb2e7faad7aa5dc6d#292b45b7ffa28029bf7cf2e780f6cd5d)
+
+## ch6 Embeddable에 대하여 1
+- [Embeddable에 대하여 1](https://www.notion.so/Embeddable-1-293b45b7ffa2800a9c18eb25167c48f6)
