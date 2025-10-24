@@ -11,6 +11,8 @@
         <class>main.jpa05.domain.Hotel</class>
         <class>main.jpa05.domain.Review</class>
         <class>main.jpa05.domain.AccessLog</class>
+        <class>jpa06.employee.domain.Employee</class>
+        <class>jpa06.reserve.domain.Hotel</class>
         <exclude-unlisted-classes>true</exclude-unlisted-classes>
         <properties>
             <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
