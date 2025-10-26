@@ -51,3 +51,6 @@ GRANT ALL PRIVILEGES ON jpabegin.* TO 'jpauser'@'%';
 
 ## ch6 Embeddable에 대하여 1
 - [Embeddable에 대하여 1](https://www.notion.so/Embeddable-1-293b45b7ffa2800a9c18eb25167c48f6)
+
+## ch7 Embeddable에 대하여 2
+- [Embeddable에 대하여 2](https://www.notion.so/Embeddable-2-295b45b7ffa28067bb44c93476783cfc#298b45b7ffa28062ac9bcc0c3780461a)
