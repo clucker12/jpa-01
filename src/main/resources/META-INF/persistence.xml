@@ -14,6 +14,8 @@
         <class>jpa06.employee.domain.Employee</class>
         <class>jpa06.reserve.domain.Hotel</class>
         <class>jpa07.domain.Writer</class>
+        <class>jpa08.domain.Role</class>
+        <class>jpa08.domain.Role2</class>
         <exclude-unlisted-classes>true</exclude-unlisted-classes>
         <properties>
             <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
