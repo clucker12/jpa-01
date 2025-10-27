@@ -57,4 +57,6 @@ GRANT ALL PRIVILEGES ON jpabegin.* TO 'jpauser'@'%';
 
 ## ch8 값 컬렉션 Set 매핑
 - [값 컬렉션 Set 매핑](https://www.notion.so/Set-299b45b7ffa280019c07e986af538432?pvs=97#299b45b7ffa28091b7efd7c66a91ad7a)
-  
+
+## ch9 단순 값 List 매핑
+- [단순 값 List 매핑](https://www.notion.so/List-299b45b7ffa280a28a11c70e560558e2#299b45b7ffa280058d3edf1c27a7c21f)
