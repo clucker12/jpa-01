@@ -16,6 +16,8 @@
         <class>jpa07.domain.Writer</class>
         <class>jpa08.domain.Role</class>
         <class>jpa08.domain.Role2</class>
+        <class>jpa09.question.domain.Question</class>
+        <class>jpa09.question2.domain.Question2</class>
         <exclude-unlisted-classes>true</exclude-unlisted-classes>
         <properties>
             <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
