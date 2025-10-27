@@ -20,6 +20,7 @@
         <class>jpa09.question2.domain.Question2</class>
         <class>jpa10.document.domain.Document</class>
         <class>jpa10.document2.domain.Document2</class>
+        <class>jpa11.domain.Role</class>
         <exclude-unlisted-classes>true</exclude-unlisted-classes>
         <properties>
             <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>

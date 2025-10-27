@@ -63,3 +63,6 @@ GRANT ALL PRIVILEGES ON jpabegin.* TO 'jpauser'@'%';
 
 ## ch10 단순 값 Map 매핑
 - [단순 값 Map 매핑](https://www.notion.so/Map-299b45b7ffa280adb18bdeb57c253aee#299b45b7ffa28062b4b7c407ea16c584)
+
+## ch11 값 컬렉션 주의사항
+- [값 컬렉션 주의사항](https://www.notion.so/299b45b7ffa2803e82c2df812291e973#299b45b7ffa2806f9203d11173a22ae2)
