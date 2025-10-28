@@ -69,3 +69,6 @@ GRANT ALL PRIVILEGES ON jpabegin.* TO 'jpauser'@'%';
 
 ## ch12 영속 컨텍스트와 라이프 사이클
 - [영속 컨텍스트와 라이프 사이클](https://www.notion.so/29ab45b7ffa280598f5cf8b99a745f18#29ab45b7ffa2809ba1e3c332dad1aab6)
+
+## ch13 엔티티 연관이란?
+- [엔티티 연관이란?](https://www.notion.so/29ab45b7ffa280e5ac19e97f70b30e6b)
