@@ -66,3 +66,6 @@ GRANT ALL PRIVILEGES ON jpabegin.* TO 'jpauser'@'%';
 
 ## ch11 값 컬렉션 주의사항
 - [값 컬렉션 주의사항](https://www.notion.so/299b45b7ffa2803e82c2df812291e973#299b45b7ffa2806f9203d11173a22ae2)
+
+## ch12 영속 컨텍스트와 라이프 사이클
+- [영속 컨텍스트와 라이프 사이클](https://www.notion.so/29ab45b7ffa280598f5cf8b99a745f18#29ab45b7ffa2809ba1e3c332dad1aab6)

@@ -21,6 +21,7 @@
         <class>jpa10.document.domain.Document</class>
         <class>jpa10.document2.domain.Document2</class>
         <class>jpa11.domain.Role</class>
+        <class>jpa12.domain.User</class>
         <exclude-unlisted-classes>true</exclude-unlisted-classes>
         <properties>
             <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
