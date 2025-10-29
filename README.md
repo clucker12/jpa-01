@@ -72,3 +72,7 @@ GRANT ALL PRIVILEGES ON jpabegin.* TO 'jpauser'@'%';
 
 ## ch13 엔티티 연관이란?
 - [엔티티 연관이란?](https://www.notion.so/29ab45b7ffa280e5ac19e97f70b30e6b)
+
+## ch14 엔티티 간 1대1 단방향 연관 매핑
+- [엔티티 간 1대1 단방향 연관 매핑](https://www.notion.so/1-1-29bb45b7ffa280fb821ad6b359cd4729#29bb45b7ffa280c6a4d1ea47d84f26e3)
+
