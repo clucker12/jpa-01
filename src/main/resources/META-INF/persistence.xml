@@ -25,6 +25,8 @@
         <class>jpa14.domain.User</class>
         <class>jpa14.domain.BestPick</class>
         <class>jpa14.domain.MembershipCard</class>
+        <class>jpa15.domain.Review</class>
+        <class>jpa15.domain.Sight</class>
         <exclude-unlisted-classes>true</exclude-unlisted-classes>
         <properties>
             <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
