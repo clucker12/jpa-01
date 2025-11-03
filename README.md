@@ -82,5 +82,8 @@ GRANT ALL PRIVILEGES ON jpabegin.* TO 'jpauser'@'%';
 ## ch16 1대N 단방향 연관 매핑
 - [1대N 단방향 연관 매핑](https://www.notion.so/1-N-29db45b7ffa280f5bed0d981becb3390)
 
+## ch17 영속성 전파 & 연관 매핑 고려사항
+- [영속성 전파 & 연관 매핑 고려사항](https://www.notion.so/2a0b45b7ffa2805dbeade80a0280fc0d)
+
 
 
