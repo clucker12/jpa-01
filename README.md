@@ -79,4 +79,8 @@ GRANT ALL PRIVILEGES ON jpabegin.* TO 'jpauser'@'%';
 ## ch15 엔티티 간 N대1 단방향 연관 매핑
 - [엔티티 간 N대1 단방향 연관 매핑](https://www.notion.so/N-1-29bb45b7ffa280849009df1017a4ab6d#29bb45b7ffa28028a02dc6eb5a33d44a)
 
+## ch16 1대N 단방향 연관 매핑
+- [1대N 단방향 연관 매핑](https://www.notion.so/1-N-29db45b7ffa280f5bed0d981becb3390)
+
+
 
