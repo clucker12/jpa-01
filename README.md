@@ -85,5 +85,5 @@ GRANT ALL PRIVILEGES ON jpabegin.* TO 'jpauser'@'%';
 ## ch17 영속성 전파 & 연관 매핑 고려사항
 - [영속성 전파 & 연관 매핑 고려사항](https://www.notion.so/2a0b45b7ffa2805dbeade80a0280fc0d)
 
-
-
+## ch18 JPQL
+- [JPQL](https://www.notion.so/JPQL-2a0b45b7ffa28057a237f94ca753c80f)
