@@ -87,3 +87,7 @@ GRANT ALL PRIVILEGES ON jpabegin.* TO 'jpauser'@'%';
 
 ## ch18 JPQL
 - [JPQL](https://www.notion.so/JPQL-2a0b45b7ffa28057a237f94ca753c80f)
+
+## 19 CRITERIA
+- [CRITERIA](https://www.notion.so/CRITERIA-2a1b45b7ffa280f68688daceb92735b9#2a1b45b7ffa2803f95e2e0f792f35617)
+
