@@ -91,3 +91,6 @@ GRANT ALL PRIVILEGES ON jpabegin.* TO 'jpauser'@'%';
 ## 19 CRITERIA
 - [CRITERIA](https://www.notion.so/CRITERIA-2a1b45b7ffa280f68688daceb92735b9#2a1b45b7ffa2803f95e2e0f792f35617)
 
+## 20 AttributeConverter,@Formula,@DynamicUpdate(@DynamicInsert),@Immutable,@Subselect
+- [AttributeConverter,@Formula,@DynamicUpdate(@DynamicInsert),@Immutable,@Subselect](https://www.notion.so/AttributeConverter-Formula-DynamicUpdate-DynamicInsert-Immutable-Subselect-2a1b45b7ffa2800881cdc576116beb2e)
+
